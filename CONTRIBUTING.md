@@ -8,7 +8,7 @@ How to Contribute
  **Contributions to this reference implementation can only be
    accepted from Accellera members.**
 
-### Join the Accellera SystemC Language Working Group
+### Join the Accellera UVM Language Working Group
 
  If you would like to contribute to the development of UVM and/or this
  reference implementation, have your company, organization, or university
@@ -21,7 +21,7 @@ How to Contribute
 
  If you are not an Accellera member, please join the **[UVM community
  forum][5]** to provide feedback, report bugs and join the general
- discussion around the evolution of SystemC.
+ discussion around the evolution of UVM.
 
 [1]: https://www.accellera.org
 [2]: https://accellera.org/activities/working-groups/uvm
@@ -128,7 +128,7 @@ can be found at:
 
 A read-only, **public** version of these repositories can be found at
 
- * https://github.com/accellera-official/uvm-core  (core SystemC library)
+ * https://github.com/accellera-official/uvm-core  (core UVM library)
  * https://github.com/accellera-official/uvm-tests (regression test suite)
 
 To obtain access to the repositories and the GitHub organization in general,
