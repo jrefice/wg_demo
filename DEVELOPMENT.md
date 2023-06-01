@@ -34,7 +34,7 @@ Git commands and workflow can be found online:
 Repository Setup
 ---------------------------------------------------------------------
 
-The central source code repository of the Accellera SystemC implementation is
+The central source code repository of the Accellera UVM implementation is
 hosted in two [Git][5] repositories at [GitHub][6].  The main
 repositories are **private** to the [`OSCI-WG` organization][7] and can be
 found at:
@@ -71,10 +71,10 @@ and your account will be enabled.
 New features and enhancements are developed by the UVM WG in the **private**
 repositories, see below.  Please check the [CONTRIBUTING][9] guidelines
 how to join Accellera and its working groups to contribute to the
-development of SystemC.
+development of UVM.
 
 The **public** repositories are typically updated only together with
-public releases of the Accellera SystemC reference implementation.
+public releases of the Accellera UVM reference implementation.
 
 In-between public releases, bug fixes may be published via the public
 repositories as well.
@@ -324,7 +324,7 @@ is incremented for bugfix/errata only releases.
 > **Note** 
 > In general, no compatibility guarantees are attached to these version
 > numbers, not even for PoC implementation itself, to avoid burdens
-> across different SystemC implementations.
+> across different UVM implementations.
 
 
 
